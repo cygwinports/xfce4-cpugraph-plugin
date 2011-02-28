@@ -1,0 +1,5 @@
+category: Xfce
+requires: libcairo2 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk2.0_0 libintl8 libxfce4util4 libxfcegui4_4 xfce4-panel xfce4-taskmanager
+sdesc: "Xfce4 CPU panel plugin"
+ldesc: "This Xfce4 panel plugin displays an graph from your latest 
+system load."
