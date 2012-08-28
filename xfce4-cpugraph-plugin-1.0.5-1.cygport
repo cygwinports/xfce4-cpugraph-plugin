@@ -1,0 +1,10 @@
+inherit xfce4
+
+CATEGORY="Xfce"
+SUMMARY="Xfce4 CPU panel plugin"
+DESCRIPTION="This Xfce4 panel plugin displays an graph from your latest
+system load."
+
+PATCH_URI="1.0.1-cygwin.patch"
+
+REQUIRES="xfce4-taskmanager"
